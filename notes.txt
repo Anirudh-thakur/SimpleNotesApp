@@ -1,0 +1,2 @@
+https://code.visualstudio.com/docs/java/java-spring-boot
+https://www.baeldung.com/spring-boot-react-crud
